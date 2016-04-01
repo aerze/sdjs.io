@@ -1,7 +1,7 @@
 {
   "name": "sdjs.io",
   "version": "1.0.0",
-  "description": "This is the url shortening webapp for sdjs.io. It's not meant to be shareable. But, feel free to check it out and learn how we did it.",
+  "description": "This is the url shortening webapp for sdjs.io. It's not meant to be used as a library, but feel free to check it out and learn how we did it.",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
