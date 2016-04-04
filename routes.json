@@ -1,5 +1,6 @@
 {
 	"/": "http://sandiegojs.org/",
 	"/talk": "http://sandiegojs.org/give-a-talk.html",
-	"/slack": "http://sdjs.slack.com"
+	"/slack": "http://sdjs.slack.com",
+	"/sponsor-feedback": "https://docs.google.com/forms/d/1cPkqaDA8OMJMgKheZ1zoUwrVh4EbG_gy1_4b6ApCL20/viewform"
 }
