@@ -1,0 +1,24 @@
+{
+  "name": "jumplink",
+  "base": "PersistedModel",
+  "idInjection": true,
+  "options": {
+    "validateUpsert": true
+  },
+  "properties": {
+    "baseRoute": {
+      "type": "string",
+      "required": true,
+      "default": "/"
+    },
+    "targetRoute": {
+      "type": "string",
+      "required": true,
+      "default": "/"
+    }
+  },
+  "validations": [],
+  "relations": {},
+  "acls": [],
+  "methods": {}
+}

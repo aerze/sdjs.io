@@ -1,0 +1,11 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "mongo_database": {
+    "name": "mongo_database",
+    "connector": "mongodb",
+    "url": "mongodb://127.0.0.1/test"
+  }
+}
