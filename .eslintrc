@@ -1,0 +1,17 @@
+{
+  "extends": "airbnb",
+  "env": {
+    "node": true,
+  },
+  "rules": {
+    "quotes": [2, "single", "avoid-escape"], // forces single quotes
+    "quote-props": [2, "consistent"],
+    "no-param-reassign": 0,
+    "no-unused-vars": 2,
+    "no-undef": 2,
+    "max-len": [1, 120, 2],
+    "no-else-return": 1,
+    "dot-notation": 0,
+    "camelcase": 0
+  }
+}
